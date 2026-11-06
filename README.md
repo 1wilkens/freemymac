@@ -4,8 +4,8 @@ A small terminal UI for finding out what's filling up your Mac's disk, with enou
 
 ## Requirements
 
-- macOS 11 or later, on Apple Silicon or Intel
-- [Go](https://go.dev/dl/) 1.23 or newer, only to build it (`brew install go`). Older Go versions from 1.21 on download the right toolchain automatically.
+- macOS 12 (Monterey) or later, on Apple Silicon or Intel
+- [Go](https://go.dev/dl/) 1.26 or newer, only to build it (`brew install go`). Older Go versions from 1.21 on download the right toolchain automatically.
 
 No C compiler, Xcode or other dependencies are needed. Everything is pure Go.
 
